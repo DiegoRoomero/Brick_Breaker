@@ -1,6 +1,6 @@
 # Brick_Breaker
 
-mport math
+import math
 import pygame
 
 
